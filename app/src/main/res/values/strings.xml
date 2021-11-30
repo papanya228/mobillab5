@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab5</string>
+    <string name="play">Play</string>
+    <string name="Pause">Pause</string>
+    <string name="Stop">Stop</string>
+    <string name="play_song">Play Song</string>
+    <string name="stop_song">Stop Song</string>
+</resources>
